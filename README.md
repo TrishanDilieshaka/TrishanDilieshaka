@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Trishan Dilieshaka 👋
 
-<!--
-**TrishanDilieshaka/TrishanDilieshaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Web & Mobile Application Developer | Student @ University of Jayawardhanapura`**
 
-Here are some ideas to get you started:
+I'm a passionate student working towards building my skills in web and mobile app development. I love exploring new technologies, coding, and creating efficient solutions to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Tech Stack & Tools:**
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Laravel, Flutter
+- **Tools**: Git, VS Code, Figma
+- **Learning**: Node.js, Express, Dart
+
+---
+
+### 🌱 **Currently Learning:**
+- Advanced web development concepts
+- Mobile app development using Flutter
+
+---
+
+### 📫 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Email](mailto:your.email@example.com)
+
+---
